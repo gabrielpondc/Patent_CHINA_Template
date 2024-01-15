@@ -1,0 +1,254 @@
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.9.19)  15 JAN 2024 15:23
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**patent
+(./patent.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24> (/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count181
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@subparagraph=\count186
+\c@figure=\count187
+\c@table=\count188
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2022/01/29 v0.5u Insert pages of external PDF documents (AM)
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count189
+\calc@Bcount=\count190
+\calc@Adimen=\dimen139
+\calc@Bdimen=\dimen140
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count191
+\calc@Cskip=\skip51
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen141
+\ESO@tempdimb=\dimen142
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 227.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+)
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
+)
+\AM@pagewidth=\dimen145
+\AM@pageheight=\dimen146
+\AM@fboxrule=\dimen147
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/pdfpages/ppxetex.def
+File: ppxetex.def 2022/01/29 v0.5u Pdfpages driver for XeTeX (AM)
+)
+\pdfpages@includegraphics@status=\count192
+\AM@pagebox=\box50
+\AM@global@opts=\toks17
+\AM@pagecnt=\count193
+\AM@toc@title=\toks18
+\c@AM@survey=\count194
+\AM@templatesizebox=\box51
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2022-02-07 L3 backend support: XeTeX
+ (|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count195
+\l__color_backend_stack_int=\count196
+\g__color_backend_stack_int=\count197
+\g__graphics_track_int=\count198
+\l__pdf_internal_box=\box52
+\g__pdf_backend_object_int=\count199
+\g__pdf_backend_annotation_int=\count266
+\g__pdf_backend_link_int=\count267
+) (./patent.aux)
+\openout1 = `patent.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 5.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+ (/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+))
+File: 1.pdf Graphic file (type pdf)
+<use 1.pdf>
+File: 1.pdf Graphic file (type pdf)
+<use 1.pdf>
+File: 1.pdf Graphic file (type pdf)
+<use 1.pdf, page 1>
+File: 1.pdf Graphic file (type pdf)
+<use 1.pdf, page 1>
+File: 1.pdf Graphic file (type pdf)
+<use 1.pdf, page 1>
+File: 1.pdf Graphic file (type pdf)
+<use 1.pdf, page 1>
+File: 1.pdf Graphic file (type pdf)
+<use 1.pdf, page 1>
+ [1
+
+]
+File: 2.pdf Graphic file (type pdf)
+<use 2.pdf>
+File: 2.pdf Graphic file (type pdf)
+<use 2.pdf>
+File: 2.pdf Graphic file (type pdf)
+<use 2.pdf, page 2>
+File: 2.pdf Graphic file (type pdf)
+<use 2.pdf, page 2>
+File: 2.pdf Graphic file (type pdf)
+<use 2.pdf, page 2>
+File: 2.pdf Graphic file (type pdf)
+<use 2.pdf, page 2>
+File: 2.pdf Graphic file (type pdf)
+<use 2.pdf, page 2>
+ [2]
+File: 3.pdf Graphic file (type pdf)
+<use 3.pdf>
+File: 3.pdf Graphic file (type pdf)
+<use 3.pdf>
+File: 3.pdf Graphic file (type pdf)
+<use 3.pdf, page 2>
+File: 3.pdf Graphic file (type pdf)
+<use 3.pdf, page 2>
+File: 3.pdf Graphic file (type pdf)
+<use 3.pdf, page 2>
+File: 3.pdf Graphic file (type pdf)
+<use 3.pdf, page 2>
+File: 3.pdf Graphic file (type pdf)
+<use 3.pdf, page 2>
+ [3]
+File: 4.pdf Graphic file (type pdf)
+<use 4.pdf>
+File: 4.pdf Graphic file (type pdf)
+<use 4.pdf>
+File: 4.pdf Graphic file (type pdf)
+<use 4.pdf, page 3>
+File: 4.pdf Graphic file (type pdf)
+<use 4.pdf, page 3>
+File: 4.pdf Graphic file (type pdf)
+<use 4.pdf, page 3>
+File: 4.pdf Graphic file (type pdf)
+<use 4.pdf, page 3>
+File: 4.pdf Graphic file (type pdf)
+<use 4.pdf, page 3>
+ [4]
+File: 5.pdf Graphic file (type pdf)
+<use 5.pdf>
+File: 5.pdf Graphic file (type pdf)
+<use 5.pdf>
+File: 5.pdf Graphic file (type pdf)
+<use 5.pdf, page 4>
+File: 5.pdf Graphic file (type pdf)
+<use 5.pdf, page 4>
+File: 5.pdf Graphic file (type pdf)
+<use 5.pdf, page 4>
+File: 5.pdf Graphic file (type pdf)
+<use 5.pdf, page 4>
+File: 5.pdf Graphic file (type pdf)
+<use 5.pdf, page 4>
+ [5]
+File: 6.pdf Graphic file (type pdf)
+<use 6.pdf>
+File: 6.pdf Graphic file (type pdf)
+<use 6.pdf>
+File: 6.pdf Graphic file (type pdf)
+<use 6.pdf, page 2>
+File: 6.pdf Graphic file (type pdf)
+<use 6.pdf, page 2>
+File: 6.pdf Graphic file (type pdf)
+<use 6.pdf, page 2>
+File: 6.pdf Graphic file (type pdf)
+<use 6.pdf, page 2>
+File: 6.pdf Graphic file (type pdf)
+<use 6.pdf, page 2>
+ [6]
+File: 7.pdf Graphic file (type pdf)
+<use 7.pdf>
+File: 7.pdf Graphic file (type pdf)
+<use 7.pdf>
+File: 7.pdf Graphic file (type pdf)
+<use 7.pdf, page 2>
+File: 7.pdf Graphic file (type pdf)
+<use 7.pdf, page 2>
+File: 7.pdf Graphic file (type pdf)
+<use 7.pdf, page 2>
+File: 7.pdf Graphic file (type pdf)
+<use 7.pdf, page 2>
+File: 7.pdf Graphic file (type pdf)
+<use 7.pdf, page 2>
+ [7] (./patent.aux) ) 
+Here is how much of TeX's memory you used:
+ 2442 strings out of 476179
+ 40397 string characters out of 5809544
+ 338277 words of memory out of 5000000
+ 23195 multiletter control sequences out of 15000+600000
+ 469267 words of font info for 29 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 70i,17n,76p,219b,417s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on patent.pdf (7 pages).
